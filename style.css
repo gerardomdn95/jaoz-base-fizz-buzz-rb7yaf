@@ -1,0 +1,30 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.square {
+  width: 400px;
+  height: 400px;
+  margin: 0;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.three {
+  background-image: url('https://place-hold.it/300x300');
+}
+
+.six {
+  background-image: url('https://place-hold.it/600x600');
+}
+
+.nine {
+  background-image: url('https://place-hold.it/900x900');
+}
